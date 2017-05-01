@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-cude
-=======
-dude
->>>>>>> a247fcf... 
+go to heck
